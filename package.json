@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mulkyrajab1/card/issues"
   },
+  "publishConfig": {
+    "@mulkyrajab1:registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/mulkyrajab1/card#readme"
 }
